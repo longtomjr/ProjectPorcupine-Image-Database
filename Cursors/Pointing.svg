@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512.00001 512.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="C:\Users\Longtom\Pictures\PP\Pointing.png"
+   inkscape:export-xdpi="89"
+   inkscape:export-ydpi="89"
+   sodipodi:docname="Pointing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="393.08528"
+     inkscape:cy="251.53019"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36214)">
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:12.49327374;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.885341,771.70948 c -33.096948,3.63097 -51.523622,20.06492 -46.049841,32.99881 22.888742,54.08337 101.93848,97.89692 123.16941,139.22789 21.23095,41.33094 10.97897,53.4401 19.35131,100.56232 129.54883,-5.6923 134.16997,0.2692 226.89237,-0.785 15.96806,-55.75621 13.60293,-83.31888 41.70648,-102.0376 28.10356,-18.71874 26.31463,-146.27001 11.81367,-184.86487 -14.50096,-38.59485 -51.2643,-43.97867 -56.66923,-22.9592 -5.40493,21.01948 -5.63281,50.96677 -5.63281,50.96677 0,0 -3.23793,-54.00836 -8.87708,-75.03839 -5.63914,-21.03003 -60.41787,-15.40174 -67.6877,-3.6163 -7.26983,11.78543 -9.98671,55.14869 -9.98671,55.14869 0,0 3.68316,-51.33876 1.10963,-66.90169 -2.57352,-15.56293 -50.48319,-22.48045 -61.0299,-9.94485 -10.54669,12.53559 -15.53488,81.36692 -15.53488,81.36692 0,0 2.18087,-159.57492 -6.65781,-192.56838 -8.83866,-32.99346 -61.07404,-33.46805 -78.78405,-0.90408 -17.71,32.56399 2.26618,251.69034 0.55483,263.0864 -12.2529,-2.1651 -34.59076,-67.3684 -67.687689,-63.73744 z"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zszcczzzczzczzczzcz" />
+  </g>
+</svg>
